@@ -45,6 +45,8 @@
 - **[TradingView](https://www.tradingview.com/)** - A platform offering advanced charting tools and market analysis for traders.
 - **[CoinGecko](https://www.coingecko.com/)** - Provides comprehensive data on cryptocurrency prices, volumes, and market capitalization.
 - **[CoinMarketCap](https://coinmarketcap.com/)** - A widely used platform for tracking cryptocurrency prices and market data.
+- **[Chartscout](https://chartscout.io)** - Real-time crypto chart pattern detection and automated trading alerts across multiple exchanges.
+
 
 ## Educational Resources
 
