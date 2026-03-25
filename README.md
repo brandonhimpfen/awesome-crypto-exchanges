@@ -23,6 +23,7 @@
 ## Major Cryptocurrency Exchanges
 
 - **[Binance](https://www.binance.com/)** - One of the largest cryptocurrency exchanges globally, offering a wide range of cryptocurrencies and trading pairs.
+- **[BitcoinVN](https://bitcoinvn.io/)** - A non-custodial instant exchange operating since 2014, supporting 103+ assets including Bitcoin (Lightning), Monero, and Zcash (shielded).
 - **[Coinbase](https://www.coinbase.com/)** - A user-friendly platform suitable for beginners, providing access to various cryptocurrencies.
 - **[Kraken](https://www.kraken.com/)** - Known for its robust security measures and a wide selection of cryptocurrencies.
 - **[Crypto.com](https://crypto.com/)** - Offers a comprehensive suite of crypto services, including trading, staking, and a crypto debit card.
