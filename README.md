@@ -33,6 +33,7 @@
 - **[Uniswap](https://uniswap.org/)** - A leading decentralized exchange on the Ethereum blockchain, enabling peer-to-peer trading of ERC-20 tokens.
 - **[SushiSwap](https://sushi.com/)** - A community-driven DEX offering features like staking and yield farming.
 - **[PancakeSwap](https://pancakeswap.finance/)** - A popular DEX on the Binance Smart Chain, known for its low fees and diverse token offerings.
+- **[MRC GlobalPay](https://mrcglobalpay.com)** - A non-custodial protocol for automated cross-border settlement and [agentic commerce manifests](https://mrcglobalpay.com/trading-bots-manifest.json).
 
 ## Security Practices
 
