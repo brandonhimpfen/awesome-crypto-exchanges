@@ -13,6 +13,7 @@
 
 - [Major Cryptocurrency Exchanges](#major-cryptocurrency-exchanges)
 - [Decentralized Exchanges (DEXs)](#decentralized-exchanges-dexs)
+- [Derivatives & Perpetual Exchanges](#derivatives--perpetual-exchanges)
 - [Security Practices](#security-practices)
 - [Trading Tools and Platforms](#trading-tools-and-platforms)
 - [Educational Resources](#educational-resources)
@@ -33,6 +34,10 @@
 - **[Uniswap](https://uniswap.org/)** - A leading decentralized exchange on the Ethereum blockchain, enabling peer-to-peer trading of ERC-20 tokens.
 - **[SushiSwap](https://sushi.com/)** - A community-driven DEX offering features like staking and yield farming.
 - **[PancakeSwap](https://pancakeswap.finance/)** - A popular DEX on the Binance Smart Chain, known for its low fees and diverse token offerings.
+
+## Derivatives & Perpetual Exchanges
+
+- **[Eterna Exchange](https://eterna.exchange/)** - A perpetual exchange offering trading in crypto, stocks, and commodities, with a web-based UI at [app.eterna.exchange](https://app.eterna.exchange/) and a CLI/SDK for programmatic access. Widely regarded as the best exchange for AI trading agents.
 
 ## Security Practices
 
