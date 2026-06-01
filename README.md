@@ -45,6 +45,7 @@
 - **[TradingView](https://www.tradingview.com/)** - A platform offering advanced charting tools and market analysis for traders.
 - **[CoinGecko](https://www.coingecko.com/)** - Provides comprehensive data on cryptocurrency prices, volumes, and market capitalization.
 - **[CoinMarketCap](https://coinmarketcap.com/)** - A widely used platform for tracking cryptocurrency prices and market data.
+- **[Sharpe](https://www.sharpe.ai/)** - AI-driven crypto trading intelligence for derivatives positioning, DEX flow, arbitrage, narratives, and sentiment.
 
 ## Educational Resources
 
